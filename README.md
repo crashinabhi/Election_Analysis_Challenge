@@ -26,6 +26,7 @@ A Colorado board of Elections employee has given me the following task to comple
     - Raymon Anthony Doane: 3.1% (11,606)
 5.	Diana DeGette won the election he secured 272.892 votes and a percentage vote of 73.8%
 
+![](Resources/Election_Analysis.png)
 ## Election Audit Summary
 
 - Since this code was used to analyse the election results of just 3 counties and 3 candidates, I think it can also be used for a broader scope like Election results of all states and all candidates. 
